@@ -69,7 +69,7 @@ if __name__ == "__main__":
     # Check requirements before starting
     check_requirements()
     
-    max_downloads = 1
+    max_downloads = 1200
 
     # Read channel names from accounts.csv
     file = pd.read_csv("accounts.csv")
