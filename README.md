@@ -1,2 +1,2 @@
 # co-streamer
-Fine tuning an LLM to be a chat co-streamer
+"If they don’t give you a seat at the table, bring in a folding chair"
