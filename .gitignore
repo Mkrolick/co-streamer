@@ -1,4 +1,5 @@
-livestream-downloader/accounts.csv
-livestream-downloader/downloads/*
+pre-training/livestream-downloader/accounts.csv
+pre-training/livestream-downloader/downloads/*
 env/
 TODO
+inference/.env
