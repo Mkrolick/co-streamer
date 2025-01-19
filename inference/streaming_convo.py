@@ -60,7 +60,7 @@ async def main():
             WhisperCPPTranscriberConfig.from_input_device(
                 microphone_input,
                 endpointing_config=PunctuationEndpointingConfig(),
-                libname="libwhisper.so",
+                libname="libwhisper.1.7.4.dylib",
                 fname_model="models/ggml-base.en.bin",
             ),
         ),
